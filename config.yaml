@@ -1,6 +1,6 @@
 baseURL: https://helenamtn16.netlify.app
 languageCode: en-us
-title: Forty
+title: Hi, my name is Helena
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -10,18 +10,18 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+    title: Hi, my name is Helena
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
-        title: Address
+      - city: London, NW16UN
+        country: England
+        street: 75 Lisson Grove
+        title: Adress
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: helena@davai.pro
         title: Email
     enable: yes
     phone:

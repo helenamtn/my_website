@@ -1,4 +1,4 @@
-baseURL: https://helenamtn16.netlify.app
+baseURL: https://helenamtn16.netlify.app/
 languageCode: en-us
 title: Hi, my name is Helena
 theme: forty
@@ -58,7 +58,7 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com/in/helena-martin-3b50709b/
   image: ''
-  name: Your name
+  name: Helena Martin
   navigation:
     button1:
       - name: Get Started

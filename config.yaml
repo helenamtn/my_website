@@ -25,11 +25,11 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: +33646702611
         title: Phone
   custom_css: []
   custom_js: []
-  description: Your description
+  description: I am a MFA2022 Student
   error404:
     heading: Page couldn't be found
     text: Please visit [this page](/)
@@ -56,7 +56,7 @@ params:
         url: https://www.github.com
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/helena-martin-3b50709b/
   image: ''
   name: Your name
   navigation:
